@@ -84,7 +84,7 @@
 
             <p class="text-center mt-5 lead">
                 Developed By
-                <a href="https://fahimanzam.netlify.app" class="font-weight-bold text-primary">Fahim Anzam Dip</a>
+                <a href="https://pos.fssm.pk" class="font-weight-bold text-primary">M IQBAL KAMBOH</a>
             </p>
         </div>
     </div>
